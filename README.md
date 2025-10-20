@@ -1,4 +1,3 @@
-
 portifolio-jose-martins/
 │
 ├── README.md                → Apresentação principal (sobre você + resumo dos projetos)
